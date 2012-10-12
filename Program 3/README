@@ -1,0 +1,7 @@
+Develop and demonstrate a XHTML file that includes javascript script that uses
+functions for the following:
+
+a) Parameter: A String 
+   Output: THe position in the string of the left-most vowel.
+b) Parameter: A Number
+   Output: The number of digits with its digits in the reverse order.

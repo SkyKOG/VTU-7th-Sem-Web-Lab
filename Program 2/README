@@ -1,0 +1,5 @@
+Develop and Demonstrate a XHTML file that include Javascript for the following:
+1.Input : A number n obtained using prompt.
+  Output: The first n Fibonacci numbers.
+2.Input : A number n obtained using prompt.
+  Output: A table of numbers from 1 to N and their squares using alert.
