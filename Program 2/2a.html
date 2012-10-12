@@ -1,0 +1,42 @@
+<!-- Author : SkyKOG -->
+
+<?xml version=1.0 encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>Lab Program 2a</title>
+		<script type="text/javascript">
+			fib=fibonacci()
+			document.writeln("The Fibonacci Series is: \n "+fib)
+			function fibonacci(){
+				a=0
+				b=1
+				c=0
+				n = prompt("Number of terms of fibonacci series:");
+				fib="0"
+				if (n == 1)
+					alert(fib);
+				else if (n == 2){
+					fib=fib+" 1"
+					alert(fib)
+				}
+				else if(n > 2){
+					fib=" 0 \n 1 \n "
+					for(i=3;i<=n;i++){
+						c=a+b
+						fib=fib+c+" \n "
+						a=b
+						b=c		
+					}
+					alert(fib)
+				}
+				else
+					alert("Wrong Number please enter a number > 0")
+
+				return fib
+			}
+			</script>
+	</head>
+	<body>
+	</body>
+</html>
