@@ -1,3 +1,0 @@
-Create a XHTML form with Name,Address 1,Address 2 and Email fields.On Submitting.
-Store the values in MySQL table.Retrieve and display the data based on Name.
-

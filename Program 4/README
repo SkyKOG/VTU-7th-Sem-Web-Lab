@@ -1,9 +1,0 @@
-Question 4A: Develop and Demonstrate , using javascript script , a XHTML document 
-that collects the USN ( the valid format is : A digit followed by two uppercase
-characters followed by three digits; no embedded spaces allowed (USN : University 
-Seat Number of VTU students :P)) of the user.Event handler must be included for the
-form element that collects this information to validate the input. Message in the 
-alert window must be produced when errors are detected.
-
-Question 4B: Modify the above program to get the current semester also (restricted 
-to be a number from 1 to 8 )
