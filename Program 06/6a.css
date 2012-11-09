@@ -1,0 +1,11 @@
+stud-info { display:block; color:blue; font-style:italic; font-size:200%;}
+
+student { display : block; background-color:aqua;font-size:100%; }
+
+stud1 {display : block; color:blue; }
+
+stud2 {display : block; color:red;}
+
+stud3 {display : block; color:black;}
+
+usn,name,college,branch,joining,email { display : block;}

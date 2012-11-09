@@ -1,0 +1,5 @@
+7a) Write a Perl Program to display various server Information like Server Name, Server Software,
+Server Protocol, CGI revision etc.
+
+7b)Write a Perl Program to accept UNIX commands from a HTML form and to display the output
+of the command executed.
