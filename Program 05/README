@@ -1,0 +1,7 @@
+5 A) Develop and Demonstrate, using Javascript script, a XHTML document that contains three
+short paragraphs of text, stacked on top of each other, with only enough of each showing
+so that the mouse cursor can be placed over some part of them. When the cursor is placed over
+the exposed part of any paragraph, it should rise to the top to become completely visible.
+
+5 B) Modify the above document so that when a paragraph is moved from the top stacking
+position, it returns to its original position rather than to the bottom.
