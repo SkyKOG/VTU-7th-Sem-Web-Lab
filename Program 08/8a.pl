@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+#Author : SkyKOG
 
 print "Content-type:text/html\n\n";
 use CGI;
