@@ -1,5 +1,6 @@
 #!/usr/bin/perl
-#Author : SkyKOG
+#Author : SkyKOG/Nikhil
+#Thanx : Sidharth
 
 print "Content-type:text/html\n\n";
 use CGI;
