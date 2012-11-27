@@ -1,8 +1,6 @@
 <!-- Author : SkyKOG -->
 
-<html>
-<body>
-<center><b>Databases Contents Shown Below</b><br><br>
+<b>Databases Contents Shown Below</b><br><br>
 <?php
 	$nam=$_GET["nam"];
 	
