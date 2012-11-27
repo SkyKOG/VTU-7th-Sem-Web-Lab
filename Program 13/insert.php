@@ -3,7 +3,7 @@
 <html>
 <body>
 	<center>
-		<b>DATABASE CONTENTS ARE SHOWN BELOW</b><br><br>
+		<b>Database Contents Are Shown Below</b><br><br>
 		<?php
 			$nam=$_GET["nam"];
 			$add1=$_GET["add1"];
