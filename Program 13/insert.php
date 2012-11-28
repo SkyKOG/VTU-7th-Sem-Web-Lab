@@ -20,7 +20,7 @@
         print"<tr><td>$a[0]</td>";
         print"<td>$a[1]</td>";
     	print "<td>$a[2]</td>";
-	    print "<td>$a[3]</td></tr>";
+	print "<td>$a[3]</td></tr>";
     }
     print "</table>";
 ?>
