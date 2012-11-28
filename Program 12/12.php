@@ -1,15 +1,14 @@
 <!-- Author : SkyKOG -->
 
 <?php
-session_start();
+	session_start();
 
-if(isset($_SESSION['views']))
-	$_SESSION['views']=$_SESSION['views']+1;
-else
-	$_SESSION['views']=1;
+	if(isset($_SESSION["views"]))
+		$val=$_SESSION["views"]=$_SESSION["views"]+1;
+	else
+		$val=$_SESSION["views"]=1;
 
-echo "views=".$_SESSION['views'];
-echo "		<br/>";
-echo "reload this page to increment";
+	print "Views : $val";
+	print "<br>reload this page to increment";
 
 ?>
